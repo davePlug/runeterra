@@ -1,10 +1,10 @@
 {
-  "name": "daveplug/runeterra-php",
+  "name": "daveplug/runeterra",
   "type": "library",
   "version": "1.2",
   "description": "Legends of Runeterra DeckCode Encoder/Decoder for PHP",
   "keywords": ["legends","runeterra","deckcode","encoder","decoder","php"],
-  "homepage": "https://github.com/davePlug/runeterra-php",
+  "homepage": "https://github.com/davePlug/runeterra",
   "license": "MIT",
   "authors": [
     {
