@@ -23,12 +23,12 @@
   },
   "autoload": {
     "psr-4": {
-      "MikeReinders\\RuneTerraPHP\\": "src/"
+      "davePlug\\RuneTerraPHP\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "MikeReinders\\RuneTerraPHP\\Tests\\": "tests/"
+      "davePlug\\RuneTerraPHP\\Tests\\": "tests/"
     }
   }
 }
